@@ -8,10 +8,6 @@
 
 ###
 
-<iframe src="https://giphy.com/embed/tHIRLHtNwxpjIFqPdV" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/justin-raccoon-pedro-tHIRLHtNwxpjIFqPdV">via GIPHY</a></p>
-
-###
-
 <div align="center">
   <a href="https://www.instagram.com/josanherso?igsh=OHg0dW43bXpiZXlx&utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
