@@ -14,53 +14,55 @@
 
 </div>
 
+---
+
 ## 👨‍💻 Sobre mí
 
-Soy desarrollador de software y apasionado de la Inteligencia Artificial y la automatización de procesos.
+Soy desarrollador de software especializado en construir soluciones que unen programación, automatización e inteligencia artificial.
 
-Actualmente me dedico a combinar desarrollo de software, automatización e IA para crear soluciones que optimicen tareas, mejoren la productividad y generen valor real para empresas y usuarios.
-
-### 🎯 Enfoque
-
-- 💻 Desarrollo de aplicaciones
-- 🤖 Automatización con IA
-- ⚡ Optimización de procesos
-- 🗄️ Bases de datos
-- 🌐 APIs y servicios web
-- 📱 Desarrollo de software moderno
+Me apasiona crear herramientas útiles, optimizar procesos y explorar nuevas tecnologías para transformar ideas en proyectos reales.
 
 ---
 
-## 🛠️ Tecnologías
+## 🎯 Especialidades
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cs,dotnet,python,javascript,html,css,mysql,postgres,git,github,vscode,unity" />
-
-</p>
+| Área | Descripción |
+|--------|------------|
+| 💻 Desarrollo de Software | Aplicaciones robustas y escalables |
+| 🤖 Inteligencia Artificial | Automatización y optimización |
+| ⚡ Automatización | Reducción de tareas repetitivas |
+| 🗄️ Bases de Datos | Diseño y gestión de datos |
+| 🌐 APIs & Servicios | Integraciones y conectividad |
 
 ---
 
-## 📈 Actualmente
+## 🚀 Actualmente
 
-```text
-📚 Aprendiendo Inteligencia Artificial
-🚀 Construyendo proyectos personales
-🧠 Explorando automatizaciones inteligentes
-💼 Combinando negocio, software e IA
-```
+<div align="center">
+
+🔹 Aprendiendo Inteligencia Artificial avanzada
+
+🔹 Desarrollando proyectos personales
+
+🔹 Explorando automatizaciones inteligentes
+
+🔹 Perfeccionando mis habilidades como desarrollador
+
+🔹 Construyendo soluciones que combinan Software + IA
+
+</div>
 
 ---
 
 ## 🌟 Filosofía
 
 > "La tecnología no consiste solo en escribir código,
-> sino en crear soluciones que mejoren la vida de las personas."
+> sino en crear soluciones que generen impacto."
 
 ---
 
 <div align="center">
 
-### ⚡ Siempre aprendiendo · Siempre construyendo
+### ⚡ Always Learning • Always Building
 
 </div>
