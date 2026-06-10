@@ -53,6 +53,5 @@ Me apasiona crear herramientas útiles, optimizar procesos y explorar nuevas tec
 
 <div align="center">
 
-### ⚡ Always Learning • Always Building
 
 </div>
