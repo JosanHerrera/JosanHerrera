@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg" alt="JOSAN HERRERA" />
+  <img src="./josan_header.png" alt="JOSAN HERRERA" width="100%"/>
   
   <br/>
   
