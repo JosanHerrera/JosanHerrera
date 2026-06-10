@@ -24,17 +24,7 @@ Me apasiona crear herramientas útiles, optimizar procesos y explorar nuevas tec
 
 ---
 
-## 🎯 Especialidades
 
-| Área | Descripción |
-|--------|------------|
-| 💻 Desarrollo de Software | Aplicaciones robustas y escalables |
-| 🤖 Inteligencia Artificial | Automatización y optimización |
-| ⚡ Automatización | Reducción de tareas repetitivas |
-| 🗄️ Bases de Datos | Diseño y gestión de datos |
-| 🌐 APIs & Servicios | Integraciones y conectividad |
-
----
 
 ## 🚀 Actualmente
 
