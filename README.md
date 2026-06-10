@@ -1,18 +1,22 @@
 <div align="center">
-  <img src="./josan_header.png" alt="JOSAN HERRERA" width="100%"/>
-  
-  <br/>
-  
-  **Software Dev & AI Automation Consultant · El Viso del Alcor, Sevilla 🇪🇸**
-  
-  <br/>
-  
-  *"Construyendo el puente entre el código y la inteligencia artificial"*
-  
-  <br/>
+██╗ ██████╗ ███████╗ █████╗ ███╗   ██╗
+ ██║██╔═══██╗██╔════╝██╔══██╗████╗  ██║
+ ██║██║   ██║███████╗███████║██╔██╗ ██║
+ H E R R E R A
+ ![](https://img.shields.io/badge/JOSAN-HERRERA-ff8c00?style=for-the-badge&labelColor=0d1117)
 
-  [![GitHub](https://img.shields.io/badge/github.com%2FJosanHerrera-181717?style=flat&logo=github&logoColor=white)](https://github.com/JosanHerrera)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-antonio-herrera-soto-3b5980246)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/josanherso)
+<br/>
+
+**Software Dev & AI Automation Consultant · El Viso del Alcor, Sevilla 🇪🇸**
+
+<br/>
+
+*"Construyendo el puente entre el código y la inteligencia artificial"*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/github.com%2FJosanHerrera-181717?style=flat&logo=github&logoColor=white)](https://github.com/JosanHerrera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-antonio-herrera-soto-3b5980246)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/josanherso)
 
 </div>
